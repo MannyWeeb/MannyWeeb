@@ -1,9 +1,7 @@
-## Hello, I'm Manny
-
-I'm a self-taught full-stack developer with a passion focused on bare-metal systems, distributed systems, DSL interpreters and lately, AI primitives. 
+<img width="1822" height="619" alt="Screenshot from 2026-08-14 06-33-54" src="https://github.com/user-attachments/assets/8a5ff8ef-3a20-4e98-a2cf-6ac738a403ad" />
 
 **Some info about me:**
-* Previously worked as the Systems Architect for Southern Convergence
+* Previously worked as the Systems Architect for Southern Convergence (A PH startup based in Antipolo Rizal focusing on Government applications/integrations)
 * Wrote an FSM-based workflow engine, later ported to Petri-Net semantics (no vibecoding involved)
 * Wrote **SFR** a convention-over-configuration routing framework for defining REST, WS and MQ endpoints in Node.js through a single structured file with baked-in conventions such as automated validation, DI, OpenAPI/AsyncAPI specs and built in OTel tracing and metrics output. ([sfr](https://www.npmjs.com/package/@avtechno/sfr))
 * Crazy about PKM systems since 2016 (my OneNote era), with an internally developed approach and an ecosystem of self-developed and optimized plugins (Qortex Visio and Impromptu)

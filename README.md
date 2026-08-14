@@ -24,5 +24,9 @@ You can look at my [portfolio](https://portfolio.avtechno.org) as it is there wh
 
 
 **How to reach me:**
+
 Email: mannyless37@gmail.com
+
 Discord: @mannyless
+
+LinkedIn: linkedin.com/in/mannyless
